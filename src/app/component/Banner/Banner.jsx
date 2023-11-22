@@ -8,7 +8,7 @@ const Banner = () => {
   <div className="hero-content text-center " >
     
     <div className="max-w-5xl">
-    <h1 className='  text-base md:text-6xl uppercase font-bold py-3 '> The <span className='bg-clip-text text-transparent  bg-gradient-to-r from-[#0061ff] to-[#60efff]  '>Rational Round </span>Table clear Minds, Rich Conversations</h1>
+    <h1 className='  text-base md:text-6xl uppercase font-bold py-3 '> The <span className='bg-clip-text text-transparent   bg-gradient-to-r from-[#61f4de] to-[#6e78ff]   '>Rational Round </span>Table clear Minds, Rich Conversations</h1>
 <p className=' uppercase ' >
 Welcome to Rational Round Table, where big ideas meet brevity. Join us for sharp discussions on today s topics, bringing clarity to complexity. Its the podcast for quick insights and sharp perspectives. Lets dive in!
 </p>

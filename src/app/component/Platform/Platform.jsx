@@ -3,11 +3,11 @@ import React from 'react';
 const Platform = () => {
     return (
         <div>
-            <div className="hero min-h-[70vh]  bg-base-200">
-  <div className="hero-content flex-col  lg:flex-row-reverse">
+            <div className="hero min-h-[70vh] text-white" style={{backgroundImage:'url(https://img.freepik.com/premium-photo/glass-plastic-shapes-dynamic-composition-3d-rendering-illustration_202497-1555.jpg?w=900)', backgroundSize:'cover'}}>
+  <div className="hero-content text-center flex-col  lg:flex-row-reverse">
     
     <div className=''>
-      <h1 className=" text-base md:text-5xl font-bold uppercase">Listen on any <span className='bg-clip-text text-transparent bg-gradient-to-r from-[#696eff] to-[#fbe9d7] '>platform</span></h1>
+      <h1 className=" text-base md:text-5xl font-bold uppercase">Listen on any platform</h1>
       <p className="py-6 ">Explore the wisdom of the Rational Round Table wherever you go. Listen on your favorite <br />platform and stay tuned for a dose of clarity and thoughtful conversation. Your journey to insight begins with just a click. Tune in now</p>
 
       <button className="btn  btn-neutral mx-2">
