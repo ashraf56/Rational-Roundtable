@@ -29,12 +29,10 @@ const Navbar = () => {
   
   
     </div>
-    <a className="btn btn-ghost hidden sm:block">
+   
         <Image src={logo} width={300} height={300} alt='logo' />
-    </a>
-    <a className="btn btn-ghost  sm:hidden">
-        <Image src={logo} width={150} height={40} alt='logo' />
-    </a>
+    
+  
   </div>
   <div className="navbar-end hidden lg:flex">
     <ul className="menu menu-horizontal px-1 font-bold uppercase">

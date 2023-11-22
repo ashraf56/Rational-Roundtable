@@ -10,10 +10,10 @@ const Homepage = () => {
     return (
         <div>
             <Banner></Banner>
-            <Fetured></Fetured>
-            <Platform></Platform>
             <Info></Info>
             <History></History>
+            <Platform></Platform>
+            <Fetured></Fetured>
             <Recent></Recent>
         </div>
     );
