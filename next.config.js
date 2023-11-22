@@ -10,7 +10,7 @@ const nextConfig = {
             },
             {
               protocol: 'https',
-              hostname: 'i.dummyjson.com',
+              hostname: 'cdn-icons-png.flaticon.com',
            
             },
             {

@@ -5,6 +5,7 @@ import Info from '../component/Info/Info';
 import History from '../component/History/History';
 import Fetured from '../component/Fetured/Fetured';
 import Recent from '../component/Recent/Recent';
+import Team from '../component/Team/Team';
 
 const Homepage = () => {
     return (
@@ -15,6 +16,7 @@ const Homepage = () => {
             <Platform></Platform>
             <Fetured></Fetured>
             <Recent></Recent>
+            <Team></Team>
         </div>
     );
 };
