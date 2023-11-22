@@ -4,6 +4,7 @@ import Platform from '../component/Platform/Platform';
 import Info from '../component/Info/Info';
 import History from '../component/History/History';
 import Fetured from '../component/Fetured/Fetured';
+import Recent from '../component/Recent/Recent';
 
 const Homepage = () => {
     return (
@@ -13,6 +14,7 @@ const Homepage = () => {
             <Platform></Platform>
             <Info></Info>
             <History></History>
+            <Recent></Recent>
         </div>
     );
 };
