@@ -50,7 +50,7 @@ const Team = () => {
     <h2 className="card-title">{name}</h2>
     <p>age {age}</p>
     <p>{occupation}</p>
-    <p>{country}</p>
+    <p className='font-semibold'>{country}</p>
     
   </div>
 </div>
