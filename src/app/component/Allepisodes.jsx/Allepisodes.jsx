@@ -62,11 +62,12 @@ const episodes = [
   
   
 
-const Recent = () => {
+const Allepisodes = () => {
 
     return (
         <div className='item-center flex flex-col  justify-center min-h-[50vh]  my-9 '>
-            <h1 className=" text-base md:text-5xl font-bold uppercase text-center  text-white">Recent Episodes</h1>
+                     <h1 className=" text-base md:text-xl font-bold uppercase px-20 text-white ">All Episodes</h1>
+            <hr className='horizontal w-96  mx-20  hidden lg:block' />
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3  gap-2 justify-center items-center mx-auto py-10 px-10'>
                 {
                     episodes.map(p => (
@@ -92,4 +93,4 @@ const Recent = () => {
     );
 };
 
-export default Recent;
+export default Allepisodes;
