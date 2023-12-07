@@ -4,7 +4,7 @@ import { FaPlayCircle } from 'react-icons/fa';
 const Episode = () => {
     return (
         <div>
-             <div className="hero min-h-[70vh]   text-white  " style={{backgroundImage:`url('https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148909921.jpg?w=740&t=st=1700733046~exp=1700733646~hmac=6a65882a3eeda2e872e384f8e3fc681d283bb7fb405f599a8a56c0687a2313a0')`}}>
+             <div className="hero min-h-[50vh]   text-white  " style={{backgroundImage:`url('https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148909921.jpg?w=740&t=st=1700733046~exp=1700733646~hmac=6a65882a3eeda2e872e384f8e3fc681d283bb7fb405f599a8a56c0687a2313a0')`}}>
  
  <div className="hero-content text-center " >
    

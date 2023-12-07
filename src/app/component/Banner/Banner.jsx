@@ -3,7 +3,7 @@ import { FaPlayCircle } from 'react-icons/fa';
 const Banner = () => {
     return (
         <div >     
- <div className="hero min-h-screen    text-white  " style={{backgroundImage:`url('https://img.freepik.com/free-vector/gradient-black-background-with-realistic-elements_23-2149149460.jpg?w=740&t=st=1700575560~exp=1700576160~hmac=1c943793577ed068142656a2bf7cff0685c0d17590781df2b2e89e47d42c7beb')`}}>
+ <div className="hero min-h-[50vh]  lg:min-h-screen    text-white  " style={{backgroundImage:`url('https://img.freepik.com/free-vector/gradient-black-background-with-realistic-elements_23-2149149460.jpg?w=740&t=st=1700575560~exp=1700576160~hmac=1c943793577ed068142656a2bf7cff0685c0d17590781df2b2e89e47d42c7beb')`}}>
  
   <div className="hero-content text-center " >
     

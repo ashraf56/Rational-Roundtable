@@ -16,15 +16,8 @@ const Navbar = () => {
         <Link  href={'/'}>Home</Link>
       </li>
       <li>
-        <Link  href={'/'}>Episodes</Link>
+        <Link  href={'/podcast'}>Episodes</Link>
       </li>
-      <li>
-        <Link  href={'/'}>About</Link>
-      </li>
-       <li>
-       <a className="btn">Subscribe</a>
-
-       </li>
     </ul>
   
   
