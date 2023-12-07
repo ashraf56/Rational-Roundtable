@@ -9,7 +9,7 @@ const Banner2 = () => {
  
 <div className='grid grid-cols-1 lg:grid-cols-2 justify-center items-center mx-auto  mt-10 '>
     <div>
-    <h1 className='  text-base md:text-6xl uppercase font-extrabold py-3 md:text-right bg-clip-text text-transparent   bg-gradient-to-r from-[#61f4de] to-[#6e78ff]  pe-3 '> Topics</h1>
+    <h1 className='  text-base sm:text-6xl uppercase font-extrabold py-3 md:text-right bg-clip-text text-transparent   bg-gradient-to-r from-[#61f4de] to-[#6e78ff]  pe-3 '> Topics</h1>
     </div>
     <div>
     <p className=' text-xs uppercase  pt-2 ' >
@@ -19,7 +19,7 @@ const Banner2 = () => {
     </div>
 </div>
 
-  <div className=' pb-10 '>
+  <div className=' pb-10 pt-5 lg:pt-0'>
       <Image  src={img} width={800} height={100} alt='b'/>
     </div>  
 </div>
