@@ -12,13 +12,13 @@ const Homepage = () => {
     return (
         <div>
             <Banner></Banner>
-           
+
             <Info></Info>
             <History></History>
             <Platform></Platform>
             <Fetured></Fetured>
             <Recent></Recent>
-            <Team></Team> 
+            <Team></Team>
             <Banner2></Banner2>
         </div>
     );
