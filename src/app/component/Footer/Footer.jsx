@@ -32,7 +32,7 @@ const Footer = () => {
       </footer>
       <footer className="footer footer-center p-4 bg-base-300 text-base-content">
         <aside>
-          <p>Copyright © 2023 - All right reserved by Rational Roundtable podcast</p>
+          <p>Copyright © 2024 - All right reserved by Rational Roundtable podcast</p>
         </aside>
       </footer>
     </div>

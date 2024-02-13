@@ -28,7 +28,7 @@ const episodes = [
     duration: "28:00",
     releaseDate: "06 December 2023",
     host: "John Doe",
-    image: "https://th.bing.com/th/id/OIG.6OeA4U90D.rQ9i.N4GWt?w=1024&h=1024&rs=1&pid=ImgDetMain",
+    image: "https://images.unsplash.com/photo-1533561797500-4fad4750814e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     episodeNumber: 4,
@@ -46,7 +46,7 @@ const episodes = [
     duration: "27:00",
     releaseDate: "20 December 2023",
     host: "John Doe",
-    image: "https://th.bing.com/th/id/OIG.OQE7BkAWQaP68nr6_YA0?pid=ImgGn",
+    image: "https://images.unsplash.com/photo-1533173383261-e7c2432af4ec?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     episodeNumber: 6,
@@ -80,7 +80,7 @@ const Recent = () => {
 
                 <p className='font-bold'>{p.releaseDate}</p>
                 <div className="card-actions justify-end">
-                  <button className='text-5xl justify-center '><FaRegPlayCircle /></button>
+                  <button className='text-4xl justify-center animate-pulse'><FaRegPlayCircle /></button>
                 </div>
               </div>
             </div>

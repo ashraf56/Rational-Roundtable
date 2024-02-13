@@ -4,21 +4,21 @@ import React from 'react';
 const people = [
   {
     name: "John Doe",
-    image: 'https://th.bing.com/th/id/OIG.YcwyZUtCUSjA6Azy4FQ4?pid=ImgGn',
+    image: 'https://images.unsplash.com/photo-1568555013133-1a59503c7667?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     age: 30,
     occupation: "Software Engineer",
     country: "United States",
   },
   {
     name: "Jane Smith",
-    image: 'https://th.bing.com/th/id/OIG.faUVPF2uMNk21fZS1Z_t?pid=ImgGn',
+    image: 'https://images.unsplash.com/photo-1544808700-f3cff318fab7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     age: 25,
     occupation: "Graphic Designer",
     country: "Canada",
   },
   {
     name: "Bob Johnson",
-    image: 'https://th.bing.com/th/id/OIG.VabBDR9KxVAMrepmfhuD?pid=ImgGn',
+    image: 'https://images.unsplash.com/photo-1613966637770-4318b429b3d3?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     age: 35,
     occupation: "Entrepreneur",
     country: "United Kingdom",
